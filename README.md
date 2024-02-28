@@ -1,5 +1,5 @@
 ## Hi there 👋
-Java Junior Developer in cerca di opportunità entry level per esplorare il mondo tech.
+Junior Java Developer in cerca di opportunità entry level per esplorare il mondo tech.
 
 ## About me
 ✨ Attualmente sto approfondendo Java e Javascript. 
