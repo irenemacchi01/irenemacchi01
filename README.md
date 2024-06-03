@@ -6,4 +6,4 @@ Junior Java Developer in cerca di opportunità entry level per esplorare il mond
 <br>
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,spring,python,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,spring,python,mysql,c,vscode)](https://skillicons.dev)
